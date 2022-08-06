@@ -1,4 +1,4 @@
-# WEB_PROJECT_1
+# web_project_1
 ## My first project in the Practicum program.
 
 This project helped me develop some basic skills in HTML and CSS. It consists of a static website informing the visitor about techniques for learning.
