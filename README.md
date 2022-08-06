@@ -1,5 +1,8 @@
-WEB_PROJECT_1
+# WEB_PROJECT_1
+## My first project in the Practicum program.
 
-My first project at the Practicum by Yandex course. This project helped me develop my skills in HTML, CSS and BEM structuring.
+This project helped me develop some basic skills in HTML and CSS. It consists of a static website informing the visitor about techniques for learning.
 
-To be finalised. Video and audio files could be added to blocks who don't have any to make the page more interactive.
+Some notable CSS technologies it acquainted me with include the flexbox layout model, transitions and simple animations.
+
+[Link to the site](https://frederickjodozi.github.io/web_project_1/)
