@@ -1,8 +1,12 @@
-# web_project_1
-## My first project in the Practicum program.
+# web_project_1: My first project with TripleTen
 
-This project helped me develop some basic skills in HTML and CSS. It consists of a static website informing the visitor about techniques for learning.
+This project consists of a static website built using HTML5 and CSS3, and is aimed at providing information about various learning techniques. It links to many interesting learning resources such as Coursera and Ted talks.
 
-The BEM methodology was used to organize CSS blocks. This project got me acquainted with the flex-box layout model, transitions and simple animations.
+The project helped me develop some basic skills in HTML and CSS. It acquainted me with unordered lists, the flex layout model, and simple CSS animations and transformations such as rotations and translations. The BEM methodology was used to organize CSS blocks.
 
-[Link to the site](https://frederickjodozi.github.io/web_project_1/)
+I would like to thank TripleTen to provide me with the material and instruction to build this project!
+
+Some future work on this project could include work on the header and footer sections to update links and logos relating to TripleTen's former company name.
+
+
+[web_project_1: Learning how to learn](https://frederickjodozi.github.io/web_project_1/)
